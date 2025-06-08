@@ -14,13 +14,16 @@ A simple and effective subdomain enumeration tool using brute-force techniques a
 
 ---
 
-## 📥 Installation
+## 📥 Usage & Installation
 
 Before running the tool, ensure you have the required dependencies:
 
 ```bash
 pip install tqdm
 
-## Usage
+---
+
+## ⚙️ Usage
+
 ```bash
-python subdomain_scanner.py -d <target-domain> -w <wordlist-path>
+python subdomain_scanner.py -d <target-domain> -w <wordlist-path> [-t <number-of-threads>]
