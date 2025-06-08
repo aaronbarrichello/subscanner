@@ -20,3 +20,7 @@ Before running the tool, ensure you have the required dependencies:
 
 ```bash
 pip install tqdm
+
+## Usage
+```bash
+python subdomain_scanner.py -d <target-domain> -w <wordlist-path>
