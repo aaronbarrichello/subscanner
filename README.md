@@ -1,8 +1,6 @@
 # 🔍 Subdomain Scanner (Bruteforce-Based)
 
-A simple and effective subdomain enumeration tool using brute-force techniques and multithreading. It helps identify active subdomains of a target domain based on a provided wordlist.
-
-> 🚀 Built in Python and optimized with multithreading and a progress bar for efficiency and usability.
+A simple and effective subdomain enumeration tool using brute-force techniques and multithreading. It helps identify active subdomains of a target domain based on a provided wordlist. Built in Python and optimized with multithreading and a progress bar for efficiency and usability.
 
 ---
 
